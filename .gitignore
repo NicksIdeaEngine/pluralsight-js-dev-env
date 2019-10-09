@@ -42,3 +42,4 @@ db.json
 # dist folder
 dist
 package-lock.json
+.vscode/settings.json
